@@ -42,7 +42,7 @@ pemrograman yang dipilih oleh pembuat. Masing – masing memiliki kelebihan dan
 kekurangannya sendiri.
 
 <!-- Tujuan & Manfaat -->
-## Tujuam & Manfaat
+## Tujuan & Manfaat
 Tujuan yang ingin dicapai dengan melakukan kegiatan magang ini adalah :
   1. Dapat menghasilkan aplikasi pembukuan sederhana berbasis web yang memudahkan staff dalam menginputkan data penjualan perusahaan.
   2. Dapat menghasilkan aplikasi pembukuan sederhana berbasis web yang memudahkan Pimpinan dalam memantau laporan penjualan perusahaan.
