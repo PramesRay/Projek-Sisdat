@@ -43,7 +43,6 @@ kekurangannya sendiri.
 
 <!-- Tujuan & Manfaat -->
 ## Tujuan & Manfaat
-Tujuan yang ingin dicapai dengan melakukan kegiatan magang ini adalah :
   1. Dapat menghasilkan aplikasi pembukuan sederhana berbasis web yang memudahkan staff dalam menginputkan data penjualan perusahaan.
   2. Dapat menghasilkan aplikasi pembukuan sederhana berbasis web yang memudahkan Pimpinan dalam memantau laporan penjualan perusahaan.
   3. Dapat mengerti lebih dalam bagaimana pembuatan aplikasi berbasis web menggunakan framework seperti Codeigniter3
